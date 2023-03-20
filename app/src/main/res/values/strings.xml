@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Single Image Store With Firebase Database</string>
+
+
+    <string name="save">Save</string>
+    <string name="choose_image">Choose Image</string>
+
+</resources>

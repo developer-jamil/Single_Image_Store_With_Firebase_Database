@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "829566381034",
+    "firebase_url": "https://test-806f7-default-rtdb.firebaseio.com",
+    "project_id": "test-806f7",
+    "storage_bucket": "test-806f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829566381034:android:8d280bca7009e6c1626093",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.augoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829566381034-e6tp3c5af2g60dkj9h2kqc2iqhhl7am8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamillabltd.augoogle",
+            "certificate_hash": "2a7a992bb773cc12a8a399aa502f39a905c97dee"
+          }
+        },
+        {
+          "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Q13GrFFckuLAjPG9PpMCcDnkiO2_qAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829566381034:android:9f9d717271fc50a9626093",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.saveandsharess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Q13GrFFckuLAjPG9PpMCcDnkiO2_qAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829566381034:android:a82c1ff9908dfd86626093",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.singleimagestorewithfirebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Q13GrFFckuLAjPG9PpMCcDnkiO2_qAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829566381034:android:b6806e4cc2423686626093",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.singlevaluestoreinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Q13GrFFckuLAjPG9PpMCcDnkiO2_qAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829566381034:android:c3a4df93250b8ae8626093",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.uploadimageviewfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Q13GrFFckuLAjPG9PpMCcDnkiO2_qAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829566381034-ka3rs4bikbqphinjhblsissblnu2nak3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
